@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 [submodule "perfiles-Tractosoft"]
+=======
+[submodule "perfiles-Tractosoft"]
+	path = perfiles-Tractosoft
+	url = https://github.com/Lukefranco96/perfiles-Tractosoft.git
+>>>>>>> 171271257d3684d1b658930d3de15e147c8c8ec9
